@@ -1,0 +1,231 @@
+/* main navigation */
+.navbar1 {
+  background-color: white;
+  width: 100%;
+  height: 50px;
+  border-style: solid;
+  border-color: #404040;
+  border-width: 1px;
+  margin-top: -19.5%;
+}
+
+.main-account {
+  background-color: white;
+  font-size: 20px;
+  margin-left: 45%;
+  margin-top: 1%;
+}
+
+.transfer-page {
+  background-color: white;
+  font-size: 20px;
+  margin-left: 5%;
+  margin-top: 1%;
+}
+
+.settings-page {
+  background-color: white;
+  font-size: 20px;
+  margin-left: 5%;
+  margin-top: 1%;
+}
+
+.report-page {
+  background-color: white;
+  font-size: 20px;
+  margin-left: 5%;
+  margin-top: 1%;
+}
+
+.assistance-page {
+  background-color: white;
+  font-size: 20px;
+  margin-left: 5%;
+  margin-top: 1%;
+}
+
+/* second navigation */
+.navbar2 {
+  background-color: white;
+  width: 70%;
+  height: 30px;
+  margin-top: 1%;
+  margin-left: 25%;
+  border-style: solid;
+  border-color: #404040;
+  border-width: 1px;
+}
+
+.profile-header {
+  background-color: #404040;
+  text-align: center;
+  font-size: 17px;
+  padding: 1px;
+  padding-top: 3px;
+  width: 10%;
+  height: 26px;
+  margin-left: 35%;
+}
+
+.account-header {
+  text-align: center;
+  font-size: 17px;
+  padding: 1px;
+  padding-top: 3px;
+  width: 10%;
+  height: 26px;
+  margin-left: 5%;
+}
+
+.main-bg {
+  background-color: #f6f6f6;
+  width: 70%;
+  height: 350px;
+  margin-left: 25%;
+  margin-top: 2%;
+}
+
+.heading {
+  background-color: #f6f6f6;
+  width: 60%;
+  font-size: 25px;
+  height: 30px;
+  margin-left: 26%;
+  margin-top: -25%;
+}
+
+.clients-name {
+  margin-left: 27%;
+  font-size: 20px;
+}
+
+/* client's address */
+.street-num-bg {
+  margin-top: 2%;
+}
+.street-num {
+  margin-left: 28%;
+}
+
+.street-name-bg {
+  margin-top: 1%;
+}
+.street-name {
+  margin-left: 28%;
+}
+
+.city-name-bg {
+  margin-top: 1%;
+}
+.city-name {
+  margin-left: 28%;
+}
+
+.state-name-bg {
+  margin-top: 1%;
+}
+.state-name {
+  margin-left: 28%;
+}
+
+.zipcode-bg {
+  margin-top: 1%;
+}
+.zipcode {
+  margin-left: 28%;
+}
+
+/*client's contact info */
+.primary-num-bg {
+  margin-top: 1%;
+}
+.primary-num-bg {
+  margin-top: -15.1%;
+}
+.primary-num {
+  margin-left: 65%;
+}
+
+.secondary-num-bg {
+  margin-top: 1%;
+}
+.secondary-num {
+  margin-left: 65%;
+}
+
+.email-bg {
+  margin-top: 1%;
+}
+.email {
+  margin-left: 65%;
+}
+
+/* aligning input data spaces */
+.num-form-control {
+  margin-left: 1%;
+  width: 15%;
+  border-radius: 10px;
+  height: 20px;
+  padding: 3px;
+}
+
+.street-form-control {
+  margin-left: 2.1%;
+  width: 15%;
+  border-radius: 10px;
+  height: 20px;
+  padding: 3px;
+}
+
+.city-form-control {
+  margin-left: 5.9%;
+  width: 15%;
+  border-radius: 10px;
+  height: 20px;
+  padding: 3px;
+}
+.state-form-control {
+  margin-left: 5.6%;
+  width: 15%;
+  border-radius: 10px;
+  height: 20px;
+  padding: 3px;
+}
+
+.zipcode-form-control {
+  margin-left: 3.5%;
+  width: 15%;
+  border-radius: 10px;
+  height: 20px;
+  padding: 3px;
+}
+
+.primary-form-control {
+  margin-left: 2%;
+  width: 15%;
+  border-radius: 10px;
+  height: 20px;
+  padding: 3px;
+}
+
+.seconday-form-control{
+  margin-left: .8%;
+  width: 15%;
+  border-radius: 10px;
+  height: 20px;
+  padding: 3px;
+}
+
+.email-form-control {
+  margin-left: 6.8%;
+  width: 15%;
+  border-radius: 10px;
+  height: 20px;
+  padding: 3px;
+}
+
+/* submit btn */
+.submit-section {
+  margin-left: 55%;
+  margin-top: 7%;
+}

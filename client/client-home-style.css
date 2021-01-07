@@ -1,0 +1,187 @@
+/* main navigation */
+.navbar1 {
+  background-color: white;
+  width: 99.8%;
+  height: 50px;
+  border-style: solid;
+  border-color: #404040;
+  border-width: 1px;
+  margin-top: -19.5%;
+}
+
+.main-account {
+  background-color: white;
+  font-size: 20px;
+  margin-left: 45%;
+  margin-top: 1%;
+}
+
+.transfer-page {
+  background-color: white;
+  font-size: 20px;
+  margin-left: 5%;
+  margin-top: 1%;
+}
+
+.settings-page {
+  background-color: white;
+  font-size: 20px;
+  margin-left: 5%;
+  margin-top: 1%;
+}
+
+.home-accounts {
+  background-color: white;
+  color: red;
+  font-size: 20px;
+  margin-left: 35%;
+  margin-top: -23%;
+}
+
+.navbar2 {
+  background-color: white;
+  width: 70%;
+  height: 30px;
+  margin-top: 1%;
+  margin-left: 25%;
+  border-style: solid;
+  border-color: #404040;
+  border-width: 1px;
+}
+
+.profile-header {
+  background-color: #404040;
+  text-align: center;
+  font-size: 17px;
+  padding: 1px;
+  padding-top: 3px;
+  width: 10%;
+  height: 26px;
+  margin-top: 0%;
+  margin-left: 45%;
+}
+
+/* main bg */
+.accounts {
+  background-color: #f6f6f6;
+  width: 70%;
+  height: 270px;
+  margin-left: 25%;
+  margin-top: 1%;
+}
+
+/* heading */
+.deposit-accounts {
+  background-color: #f6f6f6;
+  width: 60%;
+  font-size: 25px;
+  height: 30px;
+  margin-left: 26%;
+  margin-top: -19.5%;
+}
+
+
+/* checking account */
+.checking-account {
+  background-color: white;
+  font-size: 20px;
+  padding: 10px;
+  width: 68.5%;
+  height: 80px;
+  margin-left: 25%;
+  border-style: solid;
+  border-color: #404040;
+  border-width: 1px;
+  
+}
+
+.checking-accountID {
+  background-color: white;
+  font-size: 15px;
+  padding: 10px;
+  width: 20%;
+  height: 10px;
+  margin-left: 25.5%;
+  margin-top: -4.8%;
+}
+
+.checking-accountID-input {
+  background-color: white;
+  font-size: 15px;
+  padding: 10px;
+  width: 20%;
+  height: 10px;
+  margin-left: 25.5%;
+}
+
+.checking-balance {
+  background-color: white;
+  font-size: 15px;
+  padding: 10px;
+  width: 20%;
+  height: 10px;
+  margin-left: 73%;
+  margin-top: -4.5%;
+}
+
+.checking-balance-input {
+  background-color: white;
+  font-size: 15px;
+  padding: 10px;
+  width: 20%;
+  height: 10px;
+  margin-left: 73%;
+}
+
+
+/* savings account */
+.savings-account {
+  background-color: white;
+  font-size: 20px;
+  padding: 10px;
+  width: 68.5%;
+  height: 80px;
+  margin-top: 1%;
+  margin-left: 25%;
+    border-style: solid;
+  border-color: #404040;
+  border-width: 1px;
+}
+
+.savings-accountID {
+  background-color: white;
+  font-size: 15px;
+  padding: 10px;
+  width: 20%;
+  height: 10px;
+  margin-left: 25.5%;
+  margin-top: -4.6%;
+}
+
+.savings-accountID-input {
+  background-color: white;
+  font-size: 15px;
+  padding: 10px;
+  width: 20%;
+  height: 10px;
+  margin-left: 25.5%;
+}
+
+.savings-balance {
+  background-color: white;
+  font-size: 15px;
+  padding: 10px;
+  width: 20%;
+  height: 10px;
+  margin-left: 73%;
+  margin-top: -4.5%;
+}
+
+.savings-balance-input {
+  background-color: white;
+  font-size: 15px;
+  padding: 10px;
+  width: 20%;
+  height: 10px;
+  margin-left: 73%;
+}
