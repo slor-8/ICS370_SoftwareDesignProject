@@ -1,0 +1,73 @@
+/* main navigation */
+.navbar1 {
+  background-color: white;
+  width: 100%;
+  height: 50px;
+  border-style: solid;
+  border-color: #404040;
+  border-width: 1px;
+  margin-top: -19%;
+}
+
+.manage-user {
+  background-color: white;
+  font-size: 20px;
+  margin-left: 30%;
+  margin-top: 1%;
+}
+
+.manage-user-contact {
+  background-color: white;
+  font-size: 20px;
+  margin-left: 5%;
+  margin-top: 1%;
+}
+
+.fixes-errors {
+  background-color: white;
+  font-size: 20px;
+  margin-left: 5%;
+  margin-top: 1%;
+}
+
+.manage-admins {
+  background-color: white;
+  font-size: 20px;
+  margin-left: 5%;
+  margin-top: 1%;
+}
+
+.main-bg {
+  background-color: #f6f6f6;
+  width: 70%;
+  height: 270px;
+  margin-left: 25%;
+  margin-top: 1%;
+}
+
+.heading {
+  background-color: #f6f6f6;
+  width: 60%;
+  font-size: 25px;
+  height: 30px;
+  margin-left: 26%;
+  margin-top: -19.5%;
+}
+
+
+
+/* tables */
+table {
+  margin-left: 26%;
+  border-collapse: collapse;
+  text-align: center;
+  width: 65%;
+}
+
+th {
+  height: 20px;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
