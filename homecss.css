@@ -1,0 +1,29 @@
+.newssection {
+  width: 73%;
+  height: 350px;
+  margin-top: 20px;
+}
+
+.news {
+  width: 90%;
+  margin-top:-340px; 
+  margin-left: 20px;
+}
+.newsImage {
+  width: 30%;
+  margin-left: 20px;
+}
+
+.infoheading {
+  width: 500px;
+}
+
+.info {
+  background-color: #f6f6f6;
+  width: 500px;
+  height: 250px;
+  padding:10px;
+  margin-left: 430px;
+  margin-top: -275px;
+}
+

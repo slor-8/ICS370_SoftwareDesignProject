@@ -1,0 +1,42 @@
+.about {
+  width: 50%;
+  margin: auto;
+  margin-top: 5%;
+  border-style: solid;
+  border-width: 1px;
+  padding: 10px;
+}
+
+.developers-container {
+  width: 50%;
+  height: 200px;
+  margin: auto;
+  margin-top: 10%;
+  border-style: solid;
+  border-width: 1px;
+}
+
+.developers {
+  font-size: 20px;
+  font-weight: bold;
+  width: 90%;
+  margin: auto;
+  margin-top: 2%;
+}
+
+.devoloper1 {
+  width: 20%;
+  margin-left: 20%;
+  margin-top: 5%;
+}
+
+.devoloper2 {
+  width: 20%;
+  margin-top: 5%;
+  margin-left: 20%;
+}
+
+.name {
+  width: 80%;
+  text-align: center;
+}

@@ -1,0 +1,25 @@
+.contact-container {
+  width: 80%;
+  margin: auto;
+  margin-top: 3%;
+}
+
+.contact-main {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.hours-container {
+  width: 80%;
+  margin: auto;
+  margin-top: 5%;
+}
+
+.hours-title {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.hours {
+  margin-top: 1%;
+}

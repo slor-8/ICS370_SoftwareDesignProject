@@ -1,0 +1,88 @@
+.login-register {
+  background-color: #08339e;
+  width: 27%;
+  height: 325px;
+  padding: 10px;
+  margin-left: 954px;
+  margin-top: -26%;
+}
+
+/* username info */
+.user {
+  color: white;
+  font-size: 20px;
+  margin-top: 10%;
+  margin-left: 5%;
+}
+
+.userID {
+  width: 95%;
+  height: 30px;
+  border-radius: 10px;
+  border-width: 1px; 
+}
+
+.forgotUsername {
+  color: gray;
+  margin-left: 210px;
+}
+
+/* password info */
+.userPassword {
+  color: white;
+  font-size: 20px;
+  margin-top: 5%;
+  margin-left: 5%;
+}
+
+.password {
+  width: 95%;
+  height: 30px;
+  border-radius: 10px;
+  border-width: 1px; 
+}
+
+
+.forgotPassword {
+  color: gray;
+  margin-left: 210px;
+}
+
+/* login btn */
+.login-btn {
+  background-color: black;
+  border: black;
+  border-radius: 10px;
+  color: white;
+  font-size: 15px;
+  width: 90%;
+  height: 30px;
+  margin-top: 2%;
+  margin-left: 5%;
+  cursor: pointer;
+}
+
+.login-btn:hover {
+  background-color: #333333;
+}
+
+/* registration link */
+.register {
+  color: gray;
+  margin-top: 1%;
+  margin-left: 23%;
+}
+
+/* clickable links */
+a:link {
+  color: gray;
+  text-decoration: none;
+}
+
+a:visited {
+  color: gray;
+}
+
+a:hover {
+  color: white;
+}
